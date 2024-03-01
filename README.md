@@ -1,7 +1,8 @@
 # Tic Tac Toe Game in C
 
 A simple console-based Tic Tac Toe game implemented in C.
-
+<h1 style="text-position="centre"> Hi Rohit Here</h1>
+   
 ![C Symbol](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png)
 
 ## Features
