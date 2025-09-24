@@ -22,3 +22,5 @@ A simple console-based Tic Tac Toe game implemented in C.
  ./tic_tac_toe
  
 ## Follow the on-screen instructions to make your moves.
+##SCREEN SHOTS   
+<img src="./s"/>
